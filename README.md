@@ -3,7 +3,7 @@
 Las capturas presentadas han sido posbles gracias al gadget tecnologico [Minino](https://github.com/ElectronicCats/Minino)
 
 ## Requisitos 
-- [Google Earth Pro](https://maps.google.com/intl/es/earth/download/gep/agree.html)
+- [Google Earth Proa [a](https://maps.google.com/intl/es/earth/download/gep/agree.html)
 
 ## Uso
 
