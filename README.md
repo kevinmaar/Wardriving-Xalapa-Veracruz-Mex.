@@ -8,7 +8,7 @@ Las capturas presentadas han sido posbles gracias al gadget tecnologico [Minino]
 ## Uso
 
 1. Abrir [capturas](https://github.com/kevinmaar/Wardriving-Xalapa-Veracruz-Mex./tree/main/Capturas) y descargar la deseada
-2. [Abrir Google Earth para proceder a importarla [a](https://github.com/kevinmaar/Wardriving-Xalapa-Veracruz-Mex./blob/main/Screenshots/Captura%20de%20pantalla%202025-11-28%20101139.png)
+2. Abrir Google Earth para proceder a importarla ![Captura](https://raw.githubusercontent.com/kevinmaar/Wardriving-Xalapa-Veracruz-Mex./main/Screenshots/Captura%20de%20pantalla%202025-11-28%20101139.png)
 
 | Puedes pegar el contenido que quieras justo en esta parte:                            |
 |----------------------------------------------|
