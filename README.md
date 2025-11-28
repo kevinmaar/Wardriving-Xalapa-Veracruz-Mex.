@@ -5,7 +5,7 @@ Las capturas presentadas han sido posbles gracias al gadget tecnologico [Minino]
 ## Requisitos 
 - [Google Earth Pro](https://maps.google.com/intl/es/earth/download/gep/agree.html)
 
-## Uso
+## Importar Captura
 
 1. Abrir [capturas](https://github.com/kevinmaar/Wardriving-Xalapa-Veracruz-Mex./tree/main/Capturas) y descargar la deseada.
 2. Abrir Google Earth para proceder a importarla.  
@@ -17,3 +17,4 @@ Las capturas presentadas han sido posbles gracias al gadget tecnologico [Minino]
    ![Captura](https://raw.githubusercontent.com/kevinmaar/Wardriving-Xalapa-Veracruz-Mex./main/Screenshots/Captura%20de%20pantalla%202025-11-28%20101344.png)
 6. Proceder al renderizado de la captura.  
    ![Captura](https://raw.githubusercontent.com/kevinmaar/Wardriving-Xalapa-Veracruz-Mex./main/Screenshots/Captura%20de%20pantalla%202025-11-28%20101439.png)
+
