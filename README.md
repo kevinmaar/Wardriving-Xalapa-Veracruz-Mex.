@@ -1,4 +1,4 @@
-# Capturas de redes Wi-Fi en la ciudad de xalapa
+# Capturas de redes Wi-Fi en la ciudad de Xalapa, Veracuz, México.
 
 Las capturas presentadas han sido posbles gracias al gadget tecnologico [Minino](https://github.com/ElectronicCats/Minino)
 
