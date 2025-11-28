@@ -16,4 +16,4 @@ Las capturas presentadas han sido posbles gracias al gadget tecnologico [Minino]
 5. Asignar los campos correctos para la localización GPS.  
    ![Captura](https://raw.githubusercontent.com/kevinmaar/Wardriving-Xalapa-Veracruz-Mex./main/Screenshots/Captura%20de%20pantalla%202025-11-28%20101344.png)
 6. Proceder al renderizado de la captura.  
-   ![Captura](https://raw.githubusercontent.com/kevinmaar/Wardriving-Xalapa-Veracruz-Mex./main/Screenshots/Captur
+   ![Captura](https://raw.githubusercontent.com/kevinmaar/Wardriving-Xalapa-Veracruz-Mex./main/Screenshots/Captura%20de%20pantalla%202025-11-28%20101439.png)
